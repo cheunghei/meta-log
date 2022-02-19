@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog is a record of my experience having metoidioplasty (with scrotoplasty, v-nectomy, and UL) with Dr Chen in 2022. I would like to keep it anonymous to the general public, but am happy to connect with other trans folks reading this who are considering / planning for / have gone through / etc meta! I'm happy to answer any questions or chat about the experience more - reading other people's blogs like this was absolutely the biggest help to me in preparing, and I want to pay it forward. If you'd like to get in touch with me, you can email me at [cheunghei.industries@gmail.com](mailto:cheunghei.industries@gmail.com), and I should get back to you within a couple of days. I'm happy to text, Discord, etc. too, but would like to connect over email first so that I can keep this anonymous outside of trans-only spaces.
+This blog is a record of my experience having metoidioplasty (release, scrotoplasty, v-nectomy, and UL) with Dr Chen in 2022. I would like to keep it anonymous to the general public, but am happy to connect with other trans folks reading this who are considering / planning for / have gone through / etc meta! I'm happy to answer any questions or chat about the experience more - reading other people's blogs like this was absolutely the biggest help to me in preparing, and I want to pay it forward. If you'd like to get in touch with me, you can email me at [cheunghei.industries@gmail.com](mailto:cheunghei.industries@gmail.com), and I should get back to you within a couple of days. I'm happy to text, Discord, etc. too, but would like to connect over email first so that I can keep this anonymous outside of trans-only spaces.
 
 #### Surgery Timeline
 

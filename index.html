@@ -2,18 +2,22 @@
 layout: default
 ---
 
+This is a blog about my experience having metoidioplasty with Dr Chen in 2022. All of the posts below are in reverse chronological order, covering from initial consult up to the present. There's more context about my surgery history on the "About" page, and I compiled a list of general tips at the "General Meta Tips" link above, too, if you just want those without having to read through all my day-by-day experiences. I'm happy to talk and answer any questions for anyone considering or having meta too - feel free to <a href="mailto:cheunghei.industries@gmail.com">email me</a>.
+
 <div class="archive">
-  {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} {%
-  if currDate != date %}
-  <h1 class="archive-year">{{ currDate }}</h1>
-  {% assign date = currDate %} {% endif %}
-  <div class="archive-item">
-    <span class="post-date archive-date fs-4"
-      >{{ post.date | date: "%B %d, %Y" }}</span
-    >
-    <a href="{{ post.url | relative_url }}" class="archive-title fs-4"
-      >{{ post.title }}</a
-    >
-  </div>
+  {% for post in site.posts %}
+    {% assign currDate = post.date | date: "%Y" %}
+    {% if currDate != date %}
+      <h1 class="archive-year">{{ currDate }}</h1>
+      {% assign date = currDate %}
+    {% endif %}
+    <div class="archive-item">
+      <span class="post-date archive-date fs-4">
+        {{ post.date | date: "%b %Y" }}
+      </span>
+      <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
+        {{ post.title }}
+      </a>
+    </div>
   {% endfor %}
 </div>
