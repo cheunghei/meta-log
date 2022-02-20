@@ -4,7 +4,7 @@ title: General Meta Tips
 permalink: /meta-tips/
 ---
 
-A compilation of the main things I'd recommend for the meta process/recovery so they're all in one place, rather than scattered throughout each individual post... with the caveat that everyone's body is different, and you should listen to your body + your surgeon!
+A compilation of the main things I'd recommend for the meta process/recovery so they're all in one place, rather than scattered throughout each individual post... with the caveats that everyone's body is different and there are many different surgery options (e.g. I had v-nectomy, which may not apply to you!), so you should listen to your body + your surgeon!
 
 #### Supplies
 
