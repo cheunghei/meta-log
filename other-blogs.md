@@ -8,7 +8,7 @@ There are a bunch of other blogs people have made/kept for their bottom surgery 
 
 - [Meta w/ Meltzer](https://themeltzerclinic.com/ftm-surgeries-procedures/) - this is a link to Meltzer's site, just as an example of what it would look like to link to another blog here
 {% for local_blog in site.other_local_blogs %}
-- [{{local_blog.title}}]({{local_blog.url}}) - this is an example page to show what it would look like if someone wanted to submit their own writing (with or without photos) to be hosted here on this site, so they don't have to create their own wordpress or blogger site
+- [{{ local_blog.title }}]({{ site.baseurl }}{{ local_blog.url }}) - this is an example page to show what it would look like if someone wanted to submit their own writing (with or without photos) to be hosted here on this site, so they don't have to create their own wordpress or blogger site
 {% endfor %}
 
 <br>

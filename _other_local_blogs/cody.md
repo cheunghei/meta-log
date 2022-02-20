@@ -8,6 +8,6 @@ An example page to show what it might look like for someone to host their own bl
 
 Photos can be embedded anywhere in the text, like this:
 
-![sample image](/assets/images/example.jpg)
+![sample image](../assets/images/example.jpg)
 
 ...with more text below, etc.
