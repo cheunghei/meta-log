@@ -10,6 +10,7 @@ blockquote {
 img {
   @extend .img-fluid;
   margin-bottom: 1rem;
+  max-width: 35vw;
 }
 
 .navbar {
@@ -62,6 +63,7 @@ img {
 
 pre.highlight {
   padding: 1rem;
+  color: white;
 }
 
 .dark-avatar {

@@ -40,6 +40,10 @@ google_analytics:
 
 permalink: /:year/:month/:day/:title/
 
+collections:
+  other_local_blogs:
+    output: true
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: cheunghei.industries@gmail.com
