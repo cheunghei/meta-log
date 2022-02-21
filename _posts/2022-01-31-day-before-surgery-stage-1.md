@@ -11,4 +11,4 @@ I think you're allowed to eat normally during this process, but I decided to jus
 
 I'd highly recommend starting and finishing the magnesium citrate earlier – like start at 8am and try to finish by 8:30am if possible. I definitely didn't get everything out by the time of surgery, and it was not fun feeling like I had to clench my butt all the time right after surgery due to still having a bit of watery poop in there. It also made it so that I had intense bloating the first two days since I was struggling to pass gas.
 
-Otherwise, this day was just prep. I moved some clothes around in my drawers so the things I knew I'd want in the first couple of weeks were higher up, got the "pee pads" set out and ready, put my big pack of gauze on the bathroom counter, etc.
+Otherwise, this day was just prep. I moved some clothes around in my drawers so the things I knew I'd want in the first couple of weeks were higher up, got the "pee pads" set out and ready, put my big pack of gauze on the bathroom counter in easy reach, etc.
