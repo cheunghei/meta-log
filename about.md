@@ -33,7 +33,7 @@ My priorities for bottom surgery were (CW: dysphoria, talking about natal genita
 
 - Having "external" genitalia - something I could cup in my hand, something that I could feel confident and comfortable internally thinking about and externally describing as a penis and scrotum. (I recognize this is a socialized thing, and is certainly not universally true nor "objectively" true, but within myself, I really struggled with not feeling self-conscious or like a partial imposter when I would describe my genitalia pre-meta as a penis, even though I wanted to.)
 - Being able to urinate through the tip of my penis - I would prefer to be able to stand to pee at a urinal / in men's bathrooms, but I was also okay with the possibility that this wouldn't be something meta could give me due to positioning; I was mostly concerned with alleviating the dysphoria of not peeing through my penis, even if I needed to do so sitting or with my pants at my ankles.
-- Having "natal" erections - I really enjoyed my current erections and wanted to maintain those
+- Having "natal" erections - I really enjoyed my current erections and wanted to maintain those.
 
 Ambivalent / middle-of-the-road things:
 
@@ -42,5 +42,5 @@ Ambivalent / middle-of-the-road things:
 
 Some things that didn't feel important to me or that I didn't want:
 
-- Larger size - I felt fine having a really small penis, and was very apprehensive at the possibility of having a larger penis there 24/7. When I had tried packers before, having that size and weight there really bothered me, and I leaned towards much smaller packers already, so I knew that a smaller size suited my preferences more. I did like the idea of feeling _something_ there, but the way I saw post-meta people describe the feeling of their scrotum with implants move around sounded very appealing to me and like it would satisfy that need for me.
+- Larger size - I felt fine having a really small penis, and was very apprehensive at the possibility of having a larger penis there 24/7. When I had tried packers before, having that size and weight there really bothered me, and I leaned towards much smaller packers already, so I knew that a smaller size suited my preferences more. I did like the idea of feeling _something_ there, but the way I saw post-meta people describe the feeling of how their scrotum with implants would move around sounded very appealing to me and like it would satisfy that need for me.
 - Scarring - I knew from my top surgery experience (I have keloid scars from it) that I tend to scar more thickly and obviously, and that it makes me self-conscious / self-aware (I still get nervous that literally everyone is clocking me when I take my shirt off in public), so it felt important to me to avoid more scarring if possible. I would have considered accepting it if aspects of phallo felt really important to me, but my other criteria already meshed well with what meta could give me, so I didn't need to think a lot more on this aspect.
