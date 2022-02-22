@@ -6,19 +6,22 @@ permalink: /other-blogs/
 
 There are a bunch of other blogs people have made/kept for their bottom surgery recoveries, and I thought it would be useful to keep a list here so they're easy to find all in one place. This does not have to be only metoidioplasty - I named this site Meta Log since that's my surgery and this is primarily my own blog, but this page can be any bottom surgeries. I'm also happy to add individual pages to store people's writing and/or photos, if they don't want to make their own blog.
 
-- [Meta w/ Dr Chen, Jan 2022](https://surgerylog.wordpress.com/)
-{% for local_blog in site.other_local_blogs %}
-- [{{ local_blog.title }}]({{ site.baseurl }}{{ local_blog.url }}) - this is just an *example page* to show what it would look like if someone wanted to submit their own writing (with or without photos) to be hosted here on this site, so they don't have to create their own wordpress or blogger site
-{% endfor %}
+- [Meta w/ Dr. Chen, Jan 2022](https://surgerylog.wordpress.com/)
+- [Meta w/ St. Peter's Andrology (Ralph/Christopher) in the UK](https://www.reddit.com/r/Metoidioplasty/comments/rwxoss/metoidioplasty_resultsprogress_mr_christopher)
+- [Meta w/ Dr. Hadj-Moussa, Nov 2021](https://metoidiomusings.blogspot.com/)
+- [Meta w/ Dr. Michael Safir, 2018 - 2020](https://tntransman.wordpress.com/)
 
-<br>
 <br>
 
 ## Submission Info
 
 If you would like your own external blog linked here, please just share the link with me, and I'll add it to the list above. Please note: I won't link to blogs where the author hasn't given me permission to share it here, because I want to respect that some people only share their blog link with a specific population, e.g. a private Facebook group where they've vetted the members - i.e. please don't send me a link to someone else's blog other than your own.
 
-If you would like to host your own page about your experience here because you don't want to deal with creating your own blog, I'm happy to add it for you. You can [email me](mailto:cheunghei.industries@gmail.com) your text (with or without pictures), along with the name/pseudonym you want it under, and I will put it up for you here as your own page/entry. (Please note: if you want it hosted here, it will be a single page. It can be really long, with new sections for each day etc, but I just want to make it clear that it'll be all on one page so that folks aren't confused/surprised.)
+If you would like to host your own page about your experience here because you don't want to deal with creating your own blog, I'm happy to add it for you. You can [email me](mailto:cheunghei.industries@gmail.com) your text (with or without pictures), along with the name/pseudonym you want it under, and I will put it up for you here as your own page/entry. (Please note: if you want it hosted here, it will be a single page. It can be really long, with new sections for each day etc, but I just want to make it clear that it'll be all on one page so that folks aren't confused/surprised.) Here's an example of what hosting your own page/entry here could look like:
+
+{% for local_blog in site.other_local_blogs %}
+- [{{ local_blog.title }}]({{ site.baseurl }}{{ local_blog.url }}) - this is just an *example page* to show what it would look like if someone wanted to submit their own writing (with or without photos) to be hosted here on this site, so they don't have to create their own wordpress or blogger site
+{% endfor %}
 
 ### Privacy
 
