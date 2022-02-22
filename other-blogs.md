@@ -17,7 +17,7 @@ There are a bunch of other blogs people have made/kept for their bottom surgery 
 
 If you would like your own external blog linked here, please just share the link with me, and I'll add it to the list above. Please note: I won't link to blogs where the author hasn't given me permission to share it here, because I want to respect that some people only share their blog link with a specific population, e.g. a private Facebook group where they've vetted the members - i.e. please don't send me a link to someone else's blog other than your own.
 
-If you would like to host your own page about your experience here because you don't want to deal with creating your own blog, I'm happy to add it for you. You can [email me](mailto:cheunghei.industries@gmail.com) your text (with or without pictures), along with the name/pseudonym you want it under, and I will put it up for you here as your own page/entry. (Please note: if you want it hosted here, it will be a single page. It can be really long, with new sections for each day etc, but I just want to make it clear that it'll be all on one page so that folks aren't confused/surprised.) Here's an example of what hosting your own page/entry here could look like:
+If you would like to host your own page about your experience here because you don't want to deal with creating your own blog, I'm happy to add it for you. You can [email me](mailto:cheunghei.industries@gmail.com) your text (with or without pictures), and I will put it up for you here as your own page/entry. (Please note: if you want it hosted here, it will be a single page. It can be really long, with new sections for each day etc, but I just want to make it clear that it'll be all on one page so that folks aren't confused/surprised.) Here's an example of what hosting your own page/entry here could look like:
 
 {% for local_blog in site.other_local_blogs %}
 - [{{ local_blog.title }}]({{ site.baseurl }}{{ local_blog.url }}) - this is just an *example page* to show what it would look like if someone wanted to submit their own writing (with or without photos) to be hosted here on this site, so they don't have to create their own wordpress or blogger site
@@ -25,9 +25,7 @@ If you would like to host your own page about your experience here because you d
 
 ### Privacy
 
-I am firmly committed to keeping any submissions completely anonymous unless the author makes it clear they want to share their name, but if you are more comfortable emailing me your submission anonymously from a friend's email account, that is also totally fine.
-
-I will only post the text/images shared with me, and under the name you specify in the email body - please make that very clear, e.g. "Pseudonym: Mike" or "Name: Jesse", or I will just set it to anonymous.
+I am firmly committed to keeping any submissions completely anonymous unless the author makes it clear they want to share their name, but if you are more comfortable emailing me your submission anonymously from a friend's email account, that is also totally fine. I will only post the text/images shared with me in the email body and nothing else (i.e. not your email address or name associated, obviously, unless you specifically want to use your own name and make that very clear in the email text).
 
 ### Requirements
 
