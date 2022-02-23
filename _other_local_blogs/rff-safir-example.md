@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RFF phallo w/ Dr Safir in 2021
+title: RFF phallo w/ Dr. Safir in 2021
 permalink: /rff-phallo-safir-2021/
 ---
 
