@@ -22,7 +22,7 @@ This blog only covers my meta experience, but I'm happy to chat with people abou
 ##### Metoidioplasty w/ Dr. Chen
 
 - Stage 1 (release, UL, v-nectomy, scrotoplasty) - Feb 2022
-  - Complications: wound separation
+  - Complications: wound separation, UTI
 - Stage 2 (testicular implants, monsplasty, upper fold reduction) - scheduled Oct 2022
 
 #### Meta Decision
