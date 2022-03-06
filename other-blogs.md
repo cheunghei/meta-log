@@ -7,6 +7,7 @@ permalink: /other-blogs/
 There are a bunch of other blogs people have made/kept for their bottom surgery recoveries, and I thought it would be useful to keep a list here so they're easy to find all in one place. This does not have to be only metoidioplasty - I named this site Meta Log since that's my surgery and this is primarily my own blog, but this page can be any bottom surgeries. I'm also happy to add individual pages to store people's writing and/or photos, if they don't want to make their own blog.
 
 - [Meta w/ Dr. Chen, Jan 2022](https://surgerylog.wordpress.com/)
+- Another meta w/ Dr. Chen, Jan 2022 - [update 1](https://www.reddit.com/r/Metoidioplasty/comments/sfsw09/dr_chen_surgery_update_week_01/) - [pics](https://www.reddit.com/r/Metoidioplasty/comments/sfsz2k/pictures_for_post_titled_dr_chen_surgery_update/), [update 2](https://www.reddit.com/r/Metoidioplasty/comments/sle8rb/dr_chen_surgery_update_week_12/) - [pics](https://www.reddit.com/r/Metoidioplasty/comments/slea7h/pics_for_post_dr_chen_surgery_update_week_12_if/), [STP tutorial](https://www.reddit.com/r/Metoidioplasty/comments/t61ix2/hey_yall_i_wanted_to_share_how_i_stp_my_anatomy/)
 - [Meta w/ St. Peter's Andrology (Ralph/Christopher) in the UK](https://www.reddit.com/r/Metoidioplasty/comments/rwxoss/metoidioplasty_resultsprogress_mr_christopher)
 - [Meta w/ Dr. Hadj-Moussa, Nov 2021](https://metoidiomusings.blogspot.com/)
 - [Meta w/ Dr. Michael Safir, 2018 - 2020](https://tntransman.wordpress.com/)
